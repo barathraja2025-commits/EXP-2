@@ -50,7 +50,11 @@ Procedure for Load test:
 Tabulation for Open Circuit Test
 
 Tabulation for Load Test:
-
+![image](https://github.com/barathraja2025-commits/EXP-2/blob/main/WhatsApp%20Image%202026-03-26%20at%209.12.09%20AM%20(1).jpeg)
+![image](https://github.com/barathraja2025-commits/EXP-2/blob/main/WhatsApp%20Image%202026-03-26%20at%209.12.09%20AM%20(2).jpeg)
+![image](https://github.com/barathraja2025-commits/EXP-2/blob/main/WhatsApp%20Image%202026-03-26%20at%209.12.09%20AM.jpeg)
+![image](https://github.com/barathraja2025-commits/EXP-2/blob/main/WhatsApp%20Image%202026-03-26%20at%209.12.10%20AM%20(1).jpeg)
+![image](https://github.com/barathraja2025-commits/EXP-2/blob/main/WhatsApp%20Image%202026-03-26%20at%209.12.10%20AM.jpeg)
 Model graph:
 Calculation: 
 
